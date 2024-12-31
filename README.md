@@ -1,2 +1,4 @@
 # drumkit-d1
-Drumkit
+A virtual Drumkit using Vanilla JS.
+
+Push buttons and observe them make sounds.
